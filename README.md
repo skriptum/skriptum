@@ -2,7 +2,7 @@
 
 👤 Hi there, welcome to my github profile. I am a citizen interested in almost everything, but especially in politics and things around the web 🌐. I love building small web-apps to show disturbing or funny things, for example a web app to compare every german member of parliaments twitter usage [Bundestwitter (german)](https://github.com/skriptum/bundestag).
 
-Take a look at my Page for more info ![link](https://skriptum.github.io/blog/)
+Take a look at my [Page](https://skriptum.github.io/blog/) for more info
 
 🐍 I started trying things out in Python some time ago, and now I am a big fan of it, visible in my repos. Currently, i am working on a package wrapping the Zeit Online API
 
