@@ -1,8 +1,8 @@
-# Marten W.
+# marten
 Interesse an allen möglichen Dingen, insbesondere Python Development und Internet. 
 Freue mich über all die Informationen, die man aus Daten ziehen kann.
 
-🌐 [Persönliche Website](skriptum.github.io)
+[🌐](skriptum.github.io)
 
 ### Projekte
 - Python Package für die ZEIT Online API
@@ -12,15 +12,13 @@ Freue mich über all die Informationen, die man aus Daten ziehen kann.
 
 ### ⚙️ Technologien
 - [x] **pandas**
-- [x] **jupyter notebooks** f
+- [x] **jupyter notebooks** 
 - [x] **python**, insbesondere Objekt-Orierntiert
 - [x] **Flask** and **Dash** for web apps
 - [x] **SQLAlchemy** Object-Relational-Mapper in Web-Apps
 - [x] **git**, obviously
 - [x] **APIs** REST-APIs wie Twitter und ZeitOnline
-- [ ] *sklearn* , learning
-- [ ] *Pytorch*, not yet
-- [ ] *docker* want to
+- [ ] *R* learning
 
 📮 E-Mails an [kkx@protonmail.com](mailto:kkx@protonmail.com), verschlüsselt möglich ([PGP](http://keyserver.pgp.com/vkd/DownloadKey.event?keyid=0xA5A1EE3F58E7DDC8)) 
 
