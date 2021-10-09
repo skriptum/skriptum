@@ -1,4 +1,5 @@
 # marten
+Student der Volkswirtschaftslehre/Economics.
 Interesse an allen möglichen Dingen, insbesondere Python Development und Internet. 
 Freue mich über all die Informationen, die man aus Daten ziehen kann.
 
