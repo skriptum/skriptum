@@ -20,6 +20,3 @@ Freue mich über all die Informationen, die man aus Daten ziehen kann.
 - [x] **git**, obviously
 - [x] **APIs** REST-APIs wie Twitter und ZeitOnline
 - [ ] *R* learning
-
-📮 E-Mails an [kkx@protonmail.com](mailto:kkx@protonmail.com), verschlüsselt möglich ([PGP](http://keyserver.pgp.com/vkd/DownloadKey.event?keyid=0xA5A1EE3F58E7DDC8)) 
-
