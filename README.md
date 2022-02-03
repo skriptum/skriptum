@@ -5,18 +5,23 @@ Freue mich über all die Informationen, die man aus Daten ziehen kann.
 
 [🌐](skriptum.github.io)
 
-### Projekte
+## Projekte
 - Python Package für die ZEIT Online API
 - Interaktive Karte mit Unfällen in Berlin
 - Vergleichsportal für alle Twitter Konten von Bundestagsabgeordneten
 - *Datenanalyse der Zeit* anlässlich des 75ten Geburtstags
+- Notizen zu Meinem VWL-Studium im Markdown Format
 
-### ⚙️ Technologien
+## ⚙️ Technologien
+
+### Python 
 - [x] **pandas**
 - [x] **jupyter notebooks** 
-- [x] **python**, insbesondere Objekt-Orierntiert
 - [x] **Flask** and **Dash** for web apps
 - [x] **SQLAlchemy** Object-Relational-Mapper in Web-Apps
-- [x] **git**, obviously
 - [x] **APIs** REST-APIs wie Twitter und ZeitOnline
-- [ ] *R* learning
+- [ ] **OOP:** Objekt-Orientierte-Programmierung
+
+### R
+- [x] **tidyverse**
+- [ ] am lernen von vielem Mehr
