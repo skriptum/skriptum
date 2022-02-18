@@ -20,8 +20,7 @@ Freue mich über all die Informationen, die man aus Daten ziehen kann.
 - [x] **Flask** and **Dash** for web apps
 - [x] **SQLAlchemy** Object-Relational-Mapper in Web-Apps
 - [x] **APIs** REST-APIs wie Twitter und ZeitOnline
-- [ ] **OOP:** Objekt-Orientierte-Programmierung
+- [x] **OOP:** Objekt-Orientierte-Programmierung
 
 ### R
 - [x] **tidyverse**
-- [ ] am lernen von vielem Mehr
