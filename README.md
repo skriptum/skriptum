@@ -9,8 +9,7 @@ Freue mich über all die Informationen, die man aus Daten ziehen kann.
 - Python Package für die ZEIT Online API
 - Interaktive Karte mit Unfällen in Berlin
 - Vergleichsportal für alle Twitter Konten von Bundestagsabgeordneten
-- *Datenanalyse der Zeit* anlässlich des 75ten Geburtstags
-- Notizen zu Meinem VWL-Studium im Markdown Format
+- alle Notizen zu meinem VWL-Studium im Markdown Format und als Github-Pages veröffentlicht
 
 ## ⚙️ Technologien
 
