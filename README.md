@@ -3,7 +3,7 @@ Student der Volkswirtschaftslehre/Economics.
 Interesse an allen möglichen Dingen, insbesondere Python Development und Internet. 
 Freue mich über all die Informationen, die man aus Daten ziehen kann.
 
-[🌐](skriptum.github.io)
+[🌐](https://martenw.com)
 
 ## Projekte
 - Python Package für die ZEIT Online API
