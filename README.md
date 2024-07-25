@@ -1,4 +1,4 @@
-# marten w.
+# marten
 
 [personal Website](https://martenw.com) 
 
