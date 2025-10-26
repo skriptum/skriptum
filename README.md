@@ -1,3 +1,3 @@
 # marten
 
-[personal Website](https://to.martenw.com/from-github)
+[personal Website](martenw.com)
